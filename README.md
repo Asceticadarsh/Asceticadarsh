@@ -18,8 +18,9 @@ Welcome to my project portfolio [here]()
 - Statistics & Exploratory Data Analysis 
 - NLP Skills: Text Cleaning, Lexical Processing
 
-##📫 How to reach me
+## 📫 How to reach me
 - [Linkedin](https://www.linkedin.com/in/asceticadarsh/)
+- [Mail ID](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSKjRFLBxLDvcPgTVmWBLLPtCmjZsFcZQDdjvjzWtrtJtmcDFGCwPrXkgncThWMHMZmZGgzl)
 
 
 
