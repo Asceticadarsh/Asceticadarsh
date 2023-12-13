@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+![profile Banner](https://github.com/Asceticadarsh/Asceticadarsh/blob/main/assets/Own%20Created%20Profile%20LinkedIn%20Banner.png)
 
 Thanks for visiting, I am Adarsh. A Data Analyst who was an Accountant by profession but data enthusiasm by heart. I am eager to learn 🌱 and explore new areas of technology. 
 Here you can see my journey from a learner to becoming an expert.
@@ -9,23 +9,23 @@ Here you can see my journey from a learner to becoming an expert.
 Welcome to my project portfolio [here]()
 
 ## Skills
--- Machine Learning Modelling Techniques 
--- Analytics Languages: Python (Introductory)
--- Visualization tools: Tableau, Matplotlib, Seaborn 
--- Tool: Jupyter Notebook
--- Hypothesis Testing 
--- Databases: MySQL
--- Statistics & Exploratory Data Analysis 
--- NLP Skills: Text Cleaning, Lexical Processing
+- Machine Learning  
+- Analytics Languages: Python (Introductory)
+- Visualization tools: Tableau, Matplotlib, Seaborn 
+- Tool: Jupyter Notebook
+- Hypothesis Testing 
+- Databases: MySQL
+- Statistics & Exploratory Data Analysis 
+- NLP Skills: Text Cleaning, Lexical Processing
 
 ##📫 How to reach me
--- [Linkedin](https://www.linkedin.com/in/asceticadarsh/)
+- [Linkedin](https://www.linkedin.com/in/asceticadarsh/)
 
 
 
 <!--
 **Asceticadarsh/Asceticadarsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![profile banner](https://github.com/Asceticadarsh/Asceticadarsh/assets/)
+![profile banner](https://github.com/Asceticadarsh/Asceticadarsh/assets/](https://github.com/Asceticadarsh/Asceticadarsh/blob/main/assets/Own%20Created%20Profile%20LinkedIn%20Banner.png))
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
