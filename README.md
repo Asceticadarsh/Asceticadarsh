@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![Own Created Profile LinkedIn Banner](https://github.com/Asceticadarsh/Asceticadarsh/blob/main/assets/Own%20Created%20Profile%20LinkedIn%20Banner.png)
+![Own Created Profile LinkedIn Banner](https://github.com/Asceticadarsh/Asceticadarsh/assets/132383383/2710202b-d627-48f4-a07a-b8284c28a4cc)
+
 
 Thanks for visiting, I am Adarsh. A Data Analyst who was an Accountant by profession but data enthusiasm by heart. I am eager to learn 🌱 and explore new areas of technology. 
 Here you can see my journey from a learner to becoming an expert.
