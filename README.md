@@ -2,12 +2,11 @@
 
 ![Own Created Profile LinkedIn Banner](https://github.com/Asceticadarsh/Asceticadarsh/assets/132383383/2710202b-d627-48f4-a07a-b8284c28a4cc)
 
-
-Thanks for visiting, I am Adarsh. A Data Analyst who was an Accountant by profession but data enthusiasm by heart. I am eager to learn 🌱 and explore new areas of technology. 
-Here you can see my journey from a learner to becoming an expert.
-
+***
+Thanks for stopping by. I'm Adarsh, a former Accountant turned Data Analyst with a heart full of data enthusiasm. 📊💙 Eager to learn and always ready to explore new frontiers in technology, I'm on a continuous journey of growth. Here, you can witness my transformation from a curious learner to a passionate expert. Join me as I navigate the exciting realms of data and analytics! 🚀🌐 #DataEnthusiast #LifelongLearner"
+***
 ## 🎢Projects
-Welcome to my project portfolio [here]()
+Welcome to my project portfolio [here](https://github.com/Asceticadarsh/Projects-Portfolio.git)
 
 ## Skills
 - Machine Learning  
@@ -23,7 +22,7 @@ Welcome to my project portfolio [here]()
 - [Linkedin](https://www.linkedin.com/in/asceticadarsh/)
 - [Mail ID](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSKjRFLBxLDvcPgTVmWBLLPtCmjZsFcZQDdjvjzWtrtJtmcDFGCwPrXkgncThWMHMZmZGgzl)
 
-
+If you like my repositories📂 please follow my GitHub Profile and give star🌟 to my repository
 
 <!--
 **Asceticadarsh/Asceticadarsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
