@@ -7,7 +7,8 @@ Thanks for stopping by. I'm Adarsh, a former Accountant turned Data Analyst with
 ***
 ## 🎢Projects
 Welcome to my project portfolio [here](https://github.com/Asceticadarsh/Projects-Portfolio.git)
-
+[![Asceticadarsh's GitHub | Topics Over Time](https://stats.quine.sh/Asceticadarsh/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Asceticadarsh)
+[![Asceticadarsh's GitHub | Languages Over Time](https://stats.quine.sh/Asceticadarsh/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Asceticadarsh)
 ## Skills
 - Machine Learning  
 - Analytics Languages: Python (Introductory)
