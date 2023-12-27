@@ -6,9 +6,8 @@
 Thanks for stopping by. I'm Adarsh, a former Accountant turned Data Analyst with a heart full of data enthusiasm. 📊💙 Eager to learn and always ready to explore new frontiers in technology, I'm on a continuous journey of growth. Here, you can witness my transformation from a curious learner to a passionate expert. Join me as I navigate the exciting realms of data and analytics! 🚀🌐 #DataEnthusiast #LifelongLearner"
 ***
 ## 🎢Projects
-Welcome to my project portfolio [here](https://github.com/Asceticadarsh/Projects-Portfolio.git)
-[![Asceticadarsh's GitHub | Topics Over Time](https://stats.quine.sh/Asceticadarsh/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Asceticadarsh)
-[![Asceticadarsh's GitHub | Languages Over Time](https://stats.quine.sh/Asceticadarsh/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Asceticadarsh)
+Welcome to my project portfolio [here](https://github.com/Asceticadarsh/Projects-Portfolio.git)<br>
+[![Asceticadarsh's GitHub | Stats](https://stats.quine.sh/Asceticadarsh/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Asceticadarsh)
 ## Skills
 - Machine Learning  
 - Analytics Languages: Python (Introductory)
